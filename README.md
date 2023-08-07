@@ -7,10 +7,6 @@ Keyboard Hero is a web-based typing practice application that helps you improve 
 - [Demo](#demo)
 - [Features](#features)
 - [Usage](#usage)
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Demo
 
 ![Keyboard Hero Demo](demo.gif)

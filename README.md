@@ -11,7 +11,7 @@ Keyboard Hero is a web-based typing practice application that helps you improve 
 
 ![Keyboard Hero Demo](demo.gif)
 
-A live demo of the Keyboard Hero application can be accessed [here](https://your-demo-link.com).
+A live demo of the Keyboard Hero application can be accessed [here](https://parv-the-coder.github.io/KeyBoard-Practice-Game/).
 
 ## Features
 
@@ -22,7 +22,7 @@ A live demo of the Keyboard Hero application can be accessed [here](https://your
 
 ## Usage
 
-1. Visit the live demo link: [Keyboard Hero Demo](https://your-demo-link.com).
+1. Visit the live demo link: [Keyboard Hero Demo](https://parv-the-coder.github.io/KeyBoard-Practice-Game/).
 2. Start typing the highlighted keys on the virtual keyboard.
 3. Aim for accuracy and speed to improve your typing skills.
 4. See your typing speed and progress as you practice.
